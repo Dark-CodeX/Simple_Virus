@@ -19,5 +19,3 @@ main()
         std::cout << "File created: " + std::to_string(i) + "\r\n";       // gives us an accurate number of files created inside a directory
     }
 }
-
-// if you encounter any problem let me know in the comment section like, subsribe and share.
